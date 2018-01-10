@@ -4,7 +4,7 @@ using StringCalculator;
 
 namespace StringCalculator.UnitTest
 {
-    public class UnitTest1
+    public class CalculatorTest
     {
         Calculator calculator = new Calculator();
 
